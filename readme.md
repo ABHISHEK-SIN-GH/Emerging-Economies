@@ -70,10 +70,10 @@ Emerging-Economies : [Source Code Link](https://github.com/ABHISHEK-SIN-GH/Emerg
 3. **views.py**
 (a) This is the main file where the backend logic is implemented\
 (b) we are requesting data from the APIs, cleaning the received data, and then sending the data to the frontend using this file.\
-(c) we have made 4 functions for fetching data from various APIs\
-      1. **hrdoAPI()** : handles requests to the UNDP API\
-      2. **imfAPI()** : handles requests to the IMF API\
-      3. **wbAPI()** : handles requests to the World Bank API\
+(c) we have made 4 functions for fetching data from various APIs
+      1. **hrdoAPI()** : handles requests to the UNDP API
+      2. **imfAPI()** : handles requests to the IMF API
+      3. **wbAPI()** : handles requests to the World Bank API
       4. **home()** : handles all the above APIs together
 
 
