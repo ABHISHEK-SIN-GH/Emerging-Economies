@@ -39,22 +39,22 @@ Emerging-Economies : [Source Code Link](https://github.com/ABHISHEK-SIN-GH/Emerg
 
 ## Folder Structure and File Descriptions
 ### EcoFinWeb/Code/Staticfiles
-1. **CSS Files**
+1. **CSS Files**\
 (a) Bootstrap.css [ Contains predefined Bootstrap CSS classes ]\
 (b) style.css [ Contains custom made CSS classes ]
 
-2. **Image Files**
+2. **Image Files**\
 (a) loader.gif [ The gif that is showed while the page is loading. ]
 
-3. **JavaScript Files**
+3. **JavaScript Files**\
 (a) plotly.js [ Custom made plotting library for the charts ]\
 (b) Remaining files are source code for the frontend libraries used.
 
 ### EcoFinWeb/Code/Templates
-1. **header.html**
+1. **header.html**\
 (a) We are including all the libraries required, in this html file
 
-2. **dashboard.html**
+2. **dashboard.html**\
 (a) This is the main html file, which contains the entire frontend code for our website
 (b) This file also contains the plotly.js functions which render the graphs
 
@@ -67,7 +67,7 @@ Emerging-Economies : [Source Code Link](https://github.com/ABHISHEK-SIN-GH/Emerg
 ### Django Source Code/EcoFin
 1. **urls.py** [ Contains the router logic ]
 2. **pycache, migrations, apps.py** [ These are auto generated Django files ]
-3. **views.py**
+3. **views.py**\
 (a) This is the main file where the backend logic is implemented\
 (b) we are requesting data from the APIs, cleaning the received data, and then sending the data to the frontend using this file.\
 (c) we have made 4 functions for fetching data from various APIs
