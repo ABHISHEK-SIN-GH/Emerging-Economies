@@ -55,7 +55,7 @@ Emerging-Economies : [Source Code Link](https://github.com/ABHISHEK-SIN-GH/Emerg
 (a) We are including all the libraries required, in this html file
 
 2. **dashboard.html**\
-(a) This is the main html file, which contains the entire frontend code for our website
+(a) This is the main html file, which contains the entire frontend code for our website\
 (b) This file also contains the plotly.js functions which render the graphs
 
 ### EcoFinWeb/Code/Django Source Code
